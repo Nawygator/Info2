@@ -18,6 +18,7 @@ int main()
 	double x = Winkel(u, v);
 
 	cout << x << endl;
+	Ausgabe(u);
 
 
 	system("pause");

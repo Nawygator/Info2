@@ -2,7 +2,7 @@
 
 using namespace std;
 
-double PI = 3.141562;
+static double PI = 3.141562;
 
 struct VektorT
 {
